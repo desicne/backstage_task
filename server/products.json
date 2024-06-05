@@ -11,7 +11,7 @@
       "id": 2,
       "title": "Running Shoes",
       "description": "Lightweight running shoes with superior grip.",
-      "price": 65.0,
+      "price": 65,
       "image": "https://placehold.co/600x400/png"
     },
     {
@@ -25,7 +25,7 @@
       "id": 4,
       "title": "Silver Necklace",
       "description": "Elegant silver necklace for a special occasion.",
-      "price": 125.0,
+      "price": 125,
       "image": "https://placehold.co/600x400/png"
     },
     {
@@ -46,28 +46,28 @@
       "id": 7,
       "title": "Stainless Steel Watch",
       "description": "Sleek stainless steel watch with quartz movement.",
-      "price": 200.0,
+      "price": 200,
       "image": "https://placehold.co/600x400/png"
     },
     {
       "id": 8,
       "title": "Yoga Mat",
       "description": "Non-slip yoga mat for a safe practice.",
-      "price": 30.0,
+      "price": 30,
       "image": "https://placehold.co/600x400/png"
     },
     {
       "id": 9,
       "title": "Bluetooth Speaker",
       "description": "Portable Bluetooth speaker with high-quality sound.",
-      "price": 75.0,
+      "price": 75,
       "image": "https://placehold.co/600x400/png"
     },
     {
       "id": 10,
       "title": "Insulated Water Bottle",
       "description": "Double-wall insulated water bottle to keep drinks at the right temperature.",
-      "price": 25.0,
+      "price": 25,
       "image": "https://placehold.co/600x400/png"
     }
   ]
